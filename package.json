@@ -30,7 +30,7 @@
   "dependencies": {
     "rollup-plugin-typescript": "^1.0.1",
     "sirv-cli": "^0.4.4",
-    "svelte": "^3.24.0",
+    "svelte": "^3.49.0",
     "xstate": "^4.11.0"
   }
 }
